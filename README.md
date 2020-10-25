@@ -2,7 +2,7 @@
 
 #Contents
 
-This repository consists of 3 files
+This repository consists of 4 files
 
 CodeBook.md : This markdown document provides variable names
 README.md : This markdown document explains the steps taken in this assignment to produce the tidy data set
